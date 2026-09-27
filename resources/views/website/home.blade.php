@@ -1,6 +1,6 @@
 @extends('website.layouts.master')
 
-@section('title', __('Rentdo - Your Dream Property Awaits'))
+@section('title', __('Marketimmo - Your Dream Property Awaits'))
 
 @section('content')
     @include('website.sections.hero')
